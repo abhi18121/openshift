@@ -78,3 +78,60 @@ You bring excellent balance to the team with your ability to contribute meaningf
 ---
 
 Let me know if you'd like these adapted for **formal reviews**, **one-on-one meetings**, or **team emails**.
+
+Certainly! Below are:
+
+* ✅ A **different version** of the **Senior QA Engineer** feedback
+* ✅ Two **distinct performance reviews** for **Junior Java Developers**
+
+---
+
+## 🧪 **Senior QA Engineer (Alternate Version)**
+
+### 🟢 **Strengths:**
+
+* **End-to-End Ownership:** Leads testing efforts across the SDLC, ensuring quality at every stage from requirement reviews to post-deployment validation.
+* **Automation First Approach:** Demonstrates a strong focus on scalable test automation, reducing manual effort and increasing regression efficiency.
+* **Cross-Team Collaboration:** Effectively coordinates with developers, product managers, and DevOps to drive test strategy and resolve blockers quickly.
+* **Domain Understanding:** Understands business requirements deeply and tests beyond technical specs to capture real-world scenarios.
+* **Process Improvement:** Proactively suggests and implements improvements in QA workflows and tools, contributing to a more robust delivery pipeline.
+
+### 📝 **General Feedback:**
+
+Your leadership in quality assurance continues to raise the bar for the entire team. Your strategic mindset, combined with strong execution on both manual and automated testing fronts, ensures our releases are smooth and reliable. Keep exploring ways to integrate testing earlier into the development process and scale automation further. Your impact is both technical and cultural—highly appreciated.
+
+---
+
+## 👨‍💻 **Junior Java Developer – Review 1: Strong Potential**
+
+### 🟢 **Strengths:**
+
+* **Quick Learner:** Shows eagerness to understand new frameworks, libraries, and domain concepts.
+* **Clean Code:** Follows naming conventions, adheres to coding standards, and is open to constructive feedback.
+* **Team Player:** Actively participates in code reviews and team discussions, seeking mentorship when needed.
+* **API Development Basics:** Comfortable with developing basic REST endpoints and understanding request/response flow.
+* **Positive Attitude:** Demonstrates good ownership and a willingness to go the extra mile to get things right.
+
+### 📝 **General Feedback:**
+
+You're progressing well as a junior backend developer. Your enthusiasm and willingness to learn are your biggest assets. As you grow, focus more on improving your debugging skills, understanding deeper concepts like thread safety, performance tuning, and exception handling in Spring Boot. Keep building confidence in handling tasks independently—you're on the right track.
+
+---
+
+## 👨‍💻 **Junior Java Developer – Review 2: Needs More Initiative**
+
+### 🟢 **Strengths:**
+
+* **Basic Java Knowledge:** Understands core concepts like OOP, collections, and exception handling.
+* **Willingness to Learn:** Takes feedback constructively and tries to improve when guided.
+* **Testing Awareness:** Understands the importance of unit testing and is learning how to write JUnit/Mockito tests.
+* **Code Consistency:** Adheres to formatting and code consistency when given a template or guidance.
+
+### 📝 **General Feedback:**
+
+You're steadily developing as a junior developer, but there's room to take more initiative. Start asking questions to understand the "why" behind the code and business logic. Push yourself to explore beyond assigned tasks—such as debugging, optimizing, or reading relevant documentation. With consistent effort and curiosity, you'll grow into a more independent and confident developer. Let’s work together to build that momentum.
+
+---
+
+Let me know if you need **bullet-point versions**, **team presentation format**, or something ready for **HR systems** (like performance review forms).
+
