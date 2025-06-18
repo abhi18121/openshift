@@ -140,25 +140,29 @@ Here’s a performance review sample for a **Senior Architect**. You can customi
 
 ---
 
-### ⭐ **Review for Senior Architect**
-
-#### **Strengths:**
-
-* **Technical Leadership:** Demonstrates deep architectural expertise across systems and platforms. Provides clear technical direction, makes sound design choices, and ensures scalability, security, and maintainability of the architecture.
-* **Strategic Thinking:** Aligns technology vision with business goals. Often anticipates future needs and proactively designs solutions that are both innovative and practical.
-* **Mentorship & Collaboration:** Actively mentors developers and junior architects. Creates an environment that encourages knowledge sharing and technical growth within the team.
-* **Cross-Team Influence:** Effectively collaborates across teams and functions. Plays a key role in driving consensus on complex technical decisions involving multiple stakeholders.
-* **Quality & Standards:** Maintains a high bar for code and system quality. Enforces architectural standards, design principles, and best practices consistently.
-
-#### **General Feedback:**
-
-* Continue advocating for forward-thinking architecture, especially in areas like cloud-native design, performance optimization, and cost efficiency.
-* Encourage wider documentation and knowledge transition of architectural decisions to ensure long-term team independence and support.
-* Explore opportunities to drive innovation through proof of concepts (PoCs) and tech spikes in emerging areas like AI, distributed systems, or event-driven design.
-* It would be great to see more involvement in organizational-level architectural frameworks and mentoring programs.
+Got it! Here's a rephrased version of the feedback, written **from a junior team member to a senior architect**, in respectful and simple English:
 
 ---
 
-Let me know the domain (e.g., software architect, infrastructure, cloud, data) or any specific achievements you'd like to include for a more tailored version.
+### ⭐ **Feedback for Senior Architect**
+
+#### **Strengths:**
+
+* You have excellent technical knowledge, and I’ve learned a lot by observing your approach to solving complex problems.
+* You always think ahead and design systems that are scalable, secure, and reliable.
+* I really appreciate how approachable and helpful you are. You take time to explain things clearly and guide us in the right direction.
+* You work well with other teams and help align everyone when there are tough technical decisions to be made.
+* Your focus on best practices and clean architecture sets a great example for the team.
+
+#### **General Feedback:**
+
+* It’s very inspiring to work under your guidance. If possible, I’d love to get even more opportunities to learn from your experience—maybe through walkthroughs of major design decisions or knowledge-sharing sessions.
+* Sometimes, if a bit more background or context is shared during architectural discussions, it would help junior members like me understand the bigger picture better.
+* Your leadership and clarity really help the team stay focused and confident. Looking forward to learning more from your expertise in upcoming projects.
+
+---
+
+Let me know if you'd like to make it more formal or casual, or add something specific they’ve helped you with!
+
 
 
