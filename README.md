@@ -135,3 +135,30 @@ You're steadily developing as a junior developer, but there's room to take more 
 
 Let me know if you need **bullet-point versions**, **team presentation format**, or something ready for **HR systems** (like performance review forms).
 
+
+Here’s a performance review sample for a **Senior Architect**. You can customize it based on the individual's role—whether they are a software, infrastructure, or enterprise architect. The format includes two sections: **Strengths** and **General Feedback**.
+
+---
+
+### ⭐ **Review for Senior Architect**
+
+#### **Strengths:**
+
+* **Technical Leadership:** Demonstrates deep architectural expertise across systems and platforms. Provides clear technical direction, makes sound design choices, and ensures scalability, security, and maintainability of the architecture.
+* **Strategic Thinking:** Aligns technology vision with business goals. Often anticipates future needs and proactively designs solutions that are both innovative and practical.
+* **Mentorship & Collaboration:** Actively mentors developers and junior architects. Creates an environment that encourages knowledge sharing and technical growth within the team.
+* **Cross-Team Influence:** Effectively collaborates across teams and functions. Plays a key role in driving consensus on complex technical decisions involving multiple stakeholders.
+* **Quality & Standards:** Maintains a high bar for code and system quality. Enforces architectural standards, design principles, and best practices consistently.
+
+#### **General Feedback:**
+
+* Continue advocating for forward-thinking architecture, especially in areas like cloud-native design, performance optimization, and cost efficiency.
+* Encourage wider documentation and knowledge transition of architectural decisions to ensure long-term team independence and support.
+* Explore opportunities to drive innovation through proof of concepts (PoCs) and tech spikes in emerging areas like AI, distributed systems, or event-driven design.
+* It would be great to see more involvement in organizational-level architectural frameworks and mentoring programs.
+
+---
+
+Let me know the domain (e.g., software architect, infrastructure, cloud, data) or any specific achievements you'd like to include for a more tailored version.
+
+
